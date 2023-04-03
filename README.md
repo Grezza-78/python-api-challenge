@@ -7,6 +7,7 @@ The challenge focused on two parts to assist with answering the question and the
 Part 1: Weather Python 
   I used a Python scrip to extract weather data from over 500 cities with a range of distances from the equator using the Open Weather Map API platform. 
   Using the data extracted from Open Weather Map analysed the relationship between a range of weather variables and latitude including:
+  
     * Latitude vs Temperature
     * Latitude vs Humidity
     * Latitude vs Cloudiness
@@ -16,6 +17,7 @@ Part 1: Weather Python
   Southern Hemisphere.
   
   The following observations can be from the analysis:
+  
     * There is a strong/moderate correlation relationship between Latitude and Temperature across both the hemispheres i.e., as we get closer to the equator the  
     temperature increases 
     * There are a weak/very weak correlations between the other relationships i.e. Humidity, Cloudiness and Wind Speed are not impacted by the distance from the 
@@ -28,6 +30,7 @@ Part 1: Weather Python
   
   To identify a few cities that would be good to go and have a holiday, I identified some ideal weather conditions as parameters for my search. 
   My ideal weather conditions were:
+  
     * a Max Temperature of 24 degrees Celsius
     * a Min Temperature of 15 degrees Celsius
     * a Wind Speed of 4 meters/second
